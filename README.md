@@ -6,12 +6,18 @@
 
 ~~~~
 Pytorch
-│  01Start.ipynb
-│  02CNN.ipynb
-│  03RNN.ipynb
-│  BERT_paper.ipynb
 │  README.md
 │  Transformer.ipynb
+│
+├─01入门
+│      01Start.ipynb
+│      02CNN.ipynb
+│      03RNN.ipynb
+│
+├─02Bert
+│  │  01bert.ipynb
+│  │  02bert.ipynb
+│  │  README.md
 │
 └─data
     ├─paper
@@ -24,7 +30,6 @@ Pytorch
     │
     └─StartData
         ├─diabetes
-        │      diabetes.csv.gz
         │
         └─mnist
             └─MNIST
